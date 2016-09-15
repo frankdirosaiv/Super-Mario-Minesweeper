@@ -1,0 +1,23 @@
+#pragma once
+#include "Header.h"
+
+Fl_JPEG_Image qm("question_mark.jpg");
+Fl_JPEG_Image mario("mario.jpg");
+Fl_JPEG_Image luigi("luigi.jpg");
+Fl_JPEG_Image bbr("bowser_b&r.jpg");
+Fl_JPEG_Image bwb("bowser_b&w.jpg");
+Fl_JPEG_Image brick("brick.jpg");
+Fl_JPEG_Image ub("used_block.jpg");
+Fl_JPEG_Image flag("flagpole.jpg");
+Fl_JPEG_Image one("1.jpg");
+Fl_JPEG_Image two("2.jpg");
+Fl_JPEG_Image three("3.jpg");
+Fl_JPEG_Image four("4.jpg");
+Fl_JPEG_Image five("5.jpg");
+Fl_JPEG_Image six("6.jpg");
+Fl_JPEG_Image seven("7.jpg");
+Fl_JPEG_Image eight("8.jpg");
+Fl_JPEG_Image nm("not_mine.jpg");
+Fl_JPEG_Image bjr("bowser_jr.jpg");
+Fl_JPEG_Image peach("princess_peach.jpg");
+Fl_JPEG_Image about("about.jpg");
